@@ -15,7 +15,7 @@ import numpy  as np
 # In[2]:
 
 
-print("Hello Capstone Project!")
+print("Hello Capstone Project course!")
 
 
 # In[ ]:
