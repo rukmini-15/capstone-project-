@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# ## This notebook will be mainly used for the IBM's Applied Data Science Capstone Project
+# ## This notebook will be mainly used for the Capstone Project
 
-# #### @author: 97kb059
+# #### rukminithummallapalli
 
 # In[1]:
 
@@ -15,7 +15,7 @@ import numpy  as np
 # In[2]:
 
 
-print("Hello Capstone Project Course!")
+print("Hello Capstone Project!")
 
 
 # In[ ]:
